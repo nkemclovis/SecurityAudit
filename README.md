@@ -9,6 +9,6 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.</p>
 - [Botium Toys: Scope, goals, and risk assessment report](https://drive.google.com/file/d/16KtqjkbKVW0vO6KmYmh3b6ptEz3ph6R4/view?usp=sharing)
 - [Botium Toys: Control assessment report](https://drive.google.com/file/d/1FYTYkji_m_crwWyWjbMsafTVmwRhyc9j/view?usp=sharing)
-- [Botium Toys:Compliance checklist](https://docs.google.com/document/d/14DRAJoGtJx1Uf4qH0zTevN8-M_btZeh2darW5X1sXxA/edit?usp=sharing&resourcekey=0-0NNiC-_oWRzpGPXnUg0ctw)
+- [Botium Toys:Compliance checklist](https://drive.google.com/file/d/1ULaHSghvPHOMx92odW775tAgJ0O2N5fh/view?usp=sharing)
 - [Botium Toys: Stakeholders Memorandum](https://docs.google.com/document/d/1Cgq3laOz9A5rpC1ipIu5Pe1t2Jq1NjpemVLdROyecto/edit?usp=sharing)
 <h1></h1>
