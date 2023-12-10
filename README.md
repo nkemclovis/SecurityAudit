@@ -10,5 +10,5 @@ You take the server offline temporarily so that the machine can recover and retu
 - [Botium Toys: Scope, goals, and risk assessment report](https://drive.google.com/file/d/16KtqjkbKVW0vO6KmYmh3b6ptEz3ph6R4/view?usp=sharing)
 - [Botium Toys: Control assessment report](https://drive.google.com/file/d/1FYTYkji_m_crwWyWjbMsafTVmwRhyc9j/view?usp=sharing)
 - [Botium Toys:Compliance checklist](https://drive.google.com/file/d/1ULaHSghvPHOMx92odW775tAgJ0O2N5fh/view?usp=sharing)
-- [Botium Toys: Stakeholders Memorandum](https://docs.google.com/document/d/1Cgq3laOz9A5rpC1ipIu5Pe1t2Jq1NjpemVLdROyecto/edit?usp=sharing)
+- [Botium Toys: Stakeholders Memorandum](https://drive.google.com/file/d/11jQhQJqG-K3kjQgFTlkjGet-rn0aSJ2c/view?usp=sharing)
 <h1></h1>
